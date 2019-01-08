@@ -1,0 +1,5 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#bold {
+	-fx-stroke-width: 1;
+	-fx-stroke: black;
+}
